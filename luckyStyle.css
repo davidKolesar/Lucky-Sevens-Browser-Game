@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://pixabay.com/static/uploads/photo/2016/02/29/16/07/gambling-1228728_960_720.jpg");
+    background-size: 100% 100%;
+}
+
+h1 {
+    width: 200px;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    color: white;
+    background-color: black;
+    border: 3px solid green;
+}
+
+p {
+    width: 200px;
+    font-family: 'Arvo', serif;
+    color: white;
+    background-color: black;
+    border: 3px solid green;
+}
+
+#wager {
+    width: 300px;
+    background-color: black;
+    font-family: 'Arvo', serif;
+    border: 3px solid green;
+}
+
+
+.dice {
+    width: 1px; 
+    height: 1px;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 40px;
+}

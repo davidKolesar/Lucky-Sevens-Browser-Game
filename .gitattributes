@@ -1,2 +1,2 @@
-* linguist-vendored
-*.javascript linguist-vendored=false
+$ cat .gitattributes
+*.rb linguist-language=Javascript
